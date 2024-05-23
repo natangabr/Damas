@@ -11,7 +11,7 @@
 
 * Jogo em Multiplayer: Jogabilidade entre dois jogadores. 
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologia Utilizada
 
 * Python
 
@@ -22,3 +22,5 @@
 * Capture: Pule sobre as peças do adversário para capturá-las.
 
 * Vença: Seja o último com peças no tabuleiro para ganhar!
+
+<img src="https://img.freepik.com/fotos-premium/vista-superior-da-posicao-inicial-no-tabuleiro-de-damas_696657-18731.jpg">
