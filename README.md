@@ -17,7 +17,7 @@
 
 ## 📚 Como Jogar
 
-* Movimente suas peças: Escolha o seu 
+* Movimente suas peças: Escolha a sua Linha e Coluna para se mover.
 
 * Capture: Pule sobre as peças do adversário para capturá-las.
 
